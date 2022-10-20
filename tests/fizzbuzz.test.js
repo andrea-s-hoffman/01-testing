@@ -4,10 +4,15 @@ const fizzbuzz = require("../src/fizzbuzz");
 
 //a describe block groups together tests for a specific feature
 describe("FizzBuzz function", () => {
+  // here's a test for Fizz:
   test("number divisible  by 3", () => {
-    //call function with a number divisible by 3.  Set it equal to a variable.
+    //call function with a number divisible by 3. Store the return value equal in a variable called "result".
     let result = fizzbuzz(9);
     //assert (or check) that the result is correct
     expect(result).toBe("Fizz");
   });
+  //   write a test for Buzz:
+  // ...
+  // write a test for FizzBuzz:
+  // ...
 });

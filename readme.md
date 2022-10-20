@@ -1,12 +1,12 @@
-# NODE & TESTING WITH JEST
+# (Adv. JS day 1) Node.js & Testing with Jest
 
-## If you are cloning this:
+### If you are cloning this:
 
 After cloning successfully, run "npm install" in your terminal, pointed to the project folder (01-testing)
 
 ---
 
-## Once you are ready to run your tests:
+### Once you are ready to run your tests:
 
 Run "npm run test" in your terminal, pointed to the project folder (01-testing)
 
